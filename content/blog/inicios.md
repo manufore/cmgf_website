@@ -6,6 +6,10 @@ categories = ["cmgf"]
 banner = "img/banners/inicios.jpg"
 +++
 
+La Cooperativa de Mejoramiento Genético Forestal (CMGF), fue fundada en 1976 al amparo de la Universidad Austral de Chile, reuniendo en ese entonces a seis empresas privadas y a la Corporación Nacional Forestal como representante del sector Estatal.
+
+<!--more-->
+
 ## Inicios de la `CMGF`
 
 La Cooperativa de Mejoramiento Genético Forestal (CMGF), fue fundada en 1976 al amparo de la Universidad Austral de Chile, reuniendo en ese entonces a seis empresas privadas y a la Corporación Nacional Forestal como representante del sector Estatal.

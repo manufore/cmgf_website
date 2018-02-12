@@ -6,6 +6,10 @@ categories = ["cmgf"]
 banner = "img/banners/funciones.jpg"
 +++
 
+La CMGF se administra bajo un concepto de flexibilidad, con el menor costo fijo posible que satisfaga los requerimientos básicos de normalización de la población base, dentro del marco estratégico desarrollado para las especies de interés (Pinus radiata y Eucalyptus globulus).
+
+<!--more-->
+
 ## Administración de la `CMGF`
 
 la CMGF se administra bajo un concepto de flexibilidad, con el menor costo fijo posible que satisfaga los requerimientos básicos de normalización de la población base, dentro del marco estratégico desarrollado para las especies de interés (Pinus radiata y Eucalyptus globulus).

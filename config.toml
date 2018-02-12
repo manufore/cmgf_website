@@ -1,7 +1,7 @@
 baseurl = "https://www.cmgf.cl"
 title = "CMGF"
 theme = "cmgf"
-languageCode = "es"
+languageCode = "es-es"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
 # Enable comments by entering your Disqus shortname
@@ -25,6 +25,7 @@ paginate = 10
     name = "Nosotros"
     url  = "/blog/"
     weight = 2
+
 
 
 [[menu.main]]
@@ -105,7 +106,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contáctanos al +569981884173 o en fdroppel@uach.cl</p>
+    text = """<p class="hidden-sm hidden-xs">Contáctanos al 63 2221436  o en fdroppel@uach.cl</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
