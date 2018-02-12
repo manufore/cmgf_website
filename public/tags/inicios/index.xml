@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicios on CMGF</title>
+    <link>/tags/inicios/</link>
+    <description>Recent content in Inicios on CMGF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 10 Feb 2018 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/inicios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundación e Inicios</title>
+      <link>/blog/2018/02/10/inicios/</link>
+      <pubDate>Sat, 10 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2018/02/10/inicios/</guid>
+      <description>Inicios de la CMGF La Cooperativa de Mejoramiento Genético Forestal (CMGF), fue fundada en 1976 al amparo de la Universidad Austral de Chile, reuniendo en ese entonces a seis empresas privadas y a la Corporación Nacional Forestal como representante del sector Estatal.
+Esta cooperativa surge como iniciativa de sus miembros por ejecutar acciones de interés común en el campo del mejoramiento genético forestal. Estos reconocen que sus objetivos individuales pueden desarrollarse en forma más eficiente mediante la vinculación y colaboración mutua, estableciendo además la conveniencia de insertarse en un marco universitario, por cuanto este esquema reconocido a nivel mundial, facilita la interacción con otros grupos que persiguen intereses similares.</description>
+    </item>
+    
+  </channel>
+</rss>

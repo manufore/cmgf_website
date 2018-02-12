@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funciones on CMGF</title>
+    <link>/tags/funciones/</link>
+    <description>Recent content in Funciones on CMGF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 11 Feb 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/funciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principales Funciones</title>
+      <link>/blog/2018/02/11/funciones/</link>
+      <pubDate>Sun, 11 Feb 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2018/02/11/funciones/</guid>
+      <description>Administración de la CMGF la CMGF se administra bajo un concepto de flexibilidad, con el menor costo fijo posible que satisfaga los requerimientos básicos de normalización de la población base, dentro del marco estratégico desarrollado para las especies de interés (Pinus radiata y Eucalyptus globulus).
+Cualquier solicitud adicional se satisface mediante subcontratos de servicios de terceros, bajo responsabilidad de la CMGF y financiado directamente por los miembros solicitantes. La Junta de Socios ejerce la administración superior delegando facultades y atribuciones en un Directorio compuesto por 5 directores y 2 directores técnicos nominados por la Junta.</description>
+    </item>
+    
+  </channel>
+</rss>
