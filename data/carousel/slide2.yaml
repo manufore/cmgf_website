@@ -1,4 +1,9 @@
 weight: 2
 title: "Misión, Objetivos y Funciones"
-description: "<p> </p>"
+description: >
+  <ul class="list-style-none">
+    <li> <a style="color:white;" href="/blog/2018/02/10/objetivos/">Leer más</a>  </li>
+    <li> </li>
+  </ul>
+
 image: "img/carousel/sl2.jpg"
