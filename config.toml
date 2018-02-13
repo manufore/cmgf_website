@@ -23,7 +23,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Nosotros"
-    url  = "/blog/"
+    url  = "/categories/cmgf/"
     weight = 2
 
 
