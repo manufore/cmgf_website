@@ -3,8 +3,8 @@ title = "Contacto"
 id = "contact"
 +++
 
-# Estamos aquí para ayudarle
+# Estamos aquí para ayudar
 
-Si usted necesita contactarse con nosotros envíenos sus consultas en el siguiente formulario
+Si usted necesita contactarse con nosotros, envíenos sus consultas en el siguiente formulario
 
 
