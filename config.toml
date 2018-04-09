@@ -26,12 +26,15 @@ paginate = 10
     url  = "/categories/cmgf/"
     weight = 2
 
-
+[[menu.main]]
+    name = "Catálogos"
+    url  = "https://docs.google.com/forms/d/e/1FAIpQLSdZzCrtLi0cOYQHzGnVGA5HFXiz3tnEnyhDrT8IBf4LYCcoPQ/viewform"
+    weight = 3
 
 [[menu.main]]
     name = "Contacto"
     url  = "/contact/"
-    weight = 3
+    weight = 4
 
 # Top bar social links menu
 
